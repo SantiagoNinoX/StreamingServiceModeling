@@ -1,0 +1,1 @@
+The database modeling for streaming services focuses on managing video content, which can include both movies and episodes that make up a TV series. These databases are essential for organizing, filtering, and efficiently retrieving content from a vast catalog to display relevant information to users.
